@@ -1,0 +1,63 @@
+/* Basic styles for CoreLoft Homes */
+/* Reset basic margins */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+header h1 {
+  margin: 0;
+}
+nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
+nav li {
+  margin: 0_ 2em;
+}
+nav li a  {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 2 rem;
+  background-color: #f8f8f8;
+  margin: 1rem 0 ;
+}
+
+#home {
+  background-image: url('img/home.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #000;
+  text-align: center;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#contact {
+  background-color: #ddd;
+  color: #333;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
