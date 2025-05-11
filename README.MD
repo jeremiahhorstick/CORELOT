@@ -1,1 +1,1 @@
-#Github Pages Version of corelothomes.com
+#Github Pages Version of CORELOTHOMES.COM
