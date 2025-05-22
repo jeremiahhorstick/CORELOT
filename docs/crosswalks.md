@@ -1,0 +1,1 @@
+Mappings to JSON, OWL, GeoJSON, CityJSON, schema.org
